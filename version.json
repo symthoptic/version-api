@@ -1,6 +1,7 @@
 "symthoptic": 
    "website": "0.1.0"
    "nodes": "0.1.0"
+   "radar": "6.0.0"
 "sub_brands":
    "zen":
      "website": "0.1.0"

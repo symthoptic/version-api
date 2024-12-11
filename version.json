@@ -8,8 +8,8 @@
      "dashboard": "24.0.0"
      "panel": "17.22.1"
 "projects":
-   "prism"
+   "prism":
      "falcon": "25w39a"
      "spaceport": "19.0.0"
-   "mannequin"
+   "mannequin":
       "graphene": "18.11.5"

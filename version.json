@@ -5,5 +5,11 @@
 "sub_brands":
    "zen":
      "website": "0.1.0"
-     "dashboard": "14.11.3"
+     "dashboard": "24.0.0"
      "panel": "17.22.1"
+"projects":
+   "prism"
+     "falcon": "25w39a"
+     "spaceport": "19.0.0"
+   "mannequin"
+      "graphene": "18.11.5"
